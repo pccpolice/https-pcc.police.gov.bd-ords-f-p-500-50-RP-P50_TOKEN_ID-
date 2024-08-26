@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<meta http-equiv="x-ua-compatible" content="IE=edge" />
+
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie10 lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<APM_DO_NOT_TOUCH>
+
+<script type="text/javascript">
+(function(){
+window.Fqv=!!window.Fqv;try{(function(){(function(){var a=-1;a={A:++a,ec:"false"[a],a:++a,Ja:"false"[a],K:++a,$e:"[object Object]"[a],eb:(a[a]+"")[a],Ka:++a,cb:"true"[a],D:++a,M:++a,fc:"[object Object]"[a],o:++a,U:++a,sj:++a,rj:++a};try{a.Ia=(a.Ia=a+"")[a.M]+(a.xa=a.Ia[a.a])+(a.dc=(a.wa+"")[a.a])+(!a+"")[a.Ka]+(a.ya=a.Ia[a.o])+(a.wa="true"[a.a])+(a.gb="true"[a.K])+a.Ia[a.M]+a.ya+a.xa+a.wa,a.dc=a.wa+"true"[a.Ka]+a.ya+a.gb+a.wa+a.dc,a.wa=a.A[a.Ia][a.Ia],a.wa(a.wa(a.dc+'"\\'+a.a+a.M+a.a+a.ec+"\\"+a.D+a.A+"("+a.ya+"\\"+a.a+a.U+a.a+"\\"+a.a+
+a.o+a.A+a.cb+a.xa+a.ec+"\\"+a.D+a.A+"\\"+a.a+a.o+a.U+"\\"+a.a+a.M+a.a+"\\"+a.a+a.M+a.o+a.eb+a.xa+"\\"+a.a+a.o+a.U+"['\\"+a.a+a.o+a.A+a.Ja+"\\"+a.a+a.U+a.a+"false"[a.K]+a.xa+a.Ja+a.eb+"']\\"+a.D+a.A+"===\\"+a.D+a.A+"'\\"+a.a+a.o+a.Ka+a.ya+"\\"+a.a+a.o+a.K+"\\"+a.a+a.M+a.a+"\\"+a.a+a.M+a.o+"\\"+a.a+a.D+a.U+"')\\"+a.D+a.A+"{\\"+a.a+a.K+"\\"+a.a+a.a+"\\"+a.a+a.o+a.o+a.Ja+"\\"+a.a+a.o+a.K+"\\"+a.D+a.A+a.cb+a.eb+"\\"+a.a+a.o+a.o+a.fc+"\\"+a.a+a.U+a.a+a.gb+"\\"+a.a+a.M+a.K+"\\"+a.a+a.M+a.Ka+"\\"+a.a+a.o+
+a.A+"\\"+a.D+a.A+"=\\"+a.D+a.A+"\\"+a.a+a.o+a.U+"\\"+a.a+a.M+a.a+"\\"+a.a+a.M+a.o+a.eb+a.xa+"\\"+a.a+a.o+a.U+"['\\"+a.a+a.o+a.A+a.Ja+"\\"+a.a+a.U+a.a+"false"[a.K]+a.xa+a.Ja+a.eb+"'].\\"+a.a+a.o+a.K+a.cb+"\\"+a.a+a.o+a.A+"false"[a.K]+a.Ja+a.fc+a.cb+"(/.{"+a.a+","+a.D+"}/\\"+a.a+a.D+a.U+",\\"+a.D+a.A+a.ec+a.gb+"\\"+a.a+a.M+a.o+a.fc+a.ya+"\\"+a.a+a.M+a.a+a.xa+"\\"+a.a+a.M+a.o+"\\"+a.D+a.A+"(\\"+a.a+a.U+a.A+")\\"+a.D+a.A+"{\\"+a.a+a.K+"\\"+a.a+a.a+"\\"+a.a+a.a+"\\"+a.a+a.a+"\\"+a.a+a.o+a.K+a.cb+a.ya+
+a.gb+"\\"+a.a+a.o+a.K+"\\"+a.a+a.M+a.o+"\\"+a.D+a.A+"(\\"+a.a+a.U+a.A+"\\"+a.D+a.A+"+\\"+a.D+a.A+"\\"+a.a+a.U+a.A+").\\"+a.a+a.o+a.Ka+a.gb+a.$e+"\\"+a.a+a.o+a.Ka+a.ya+"\\"+a.a+a.o+a.K+"("+a.K+",\\"+a.D+a.A+a.D+")\\"+a.a+a.K+"\\"+a.a+a.a+"\\"+a.a+a.a+"});\\"+a.a+a.K+"}\\"+a.a+a.K+'"')())()}catch(d){a%=5}})();var b=97;
+try{var ba,ca,na=c(855)?0:1,ra=c(137)?1:0,ta=c(49)?1:0,va=c(457)?1:0;for(var wa=(c(103),0);wa<ca;++wa)na+=(c(178),2),ra+=c(636)?1:2,ta+=c(158)?2:1,va+=c(81)?3:1;ba=na+ra+ta+va;window.fb===ba&&(window.fb=++ba)}catch(a){window.fb=ba}var e=!0;function xa(a){var d=38;a&&(document[f(d,156,143,153,143,136,143,146,143,154,159,121,154,135,154,139)]&&document[f(d,156,143,153,143,136,143,146,143,154,159,121,154,135,154,139)]!==q(d,156,143,153,143,136,146,139)||(e=!1));return e}
+function q(a){var d=arguments.length,g=[];for(var h=1;h<d;h++)g[h-1]=arguments[h]-a;return String.fromCharCode.apply(String,g)}function t(a,d){a+=d;return a.toString(36)}function ya(){}xa(window[ya[t(1086757,b)]]===ya);xa(typeof ie9rgb4!==t(1242178186102,b));xa(RegExp("\x3c")[t(1372108,b)](function(){return"\x3c"})&!RegExp(t(42792,b))[t(1372108,b)](function(){return"'x3'+'d';"}));
+var Ca=window[f(b,194,213,213,194,196,201,166,215,198,207,213)]||RegExp(q(b,206,208,195,202,221,194,207,197,211,208,202,197),t(-79,b))[f(b,213,198,212,213)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),Da=+new Date+(c(444)?6E5:804154),Ea,Fa,Ha,Ja=window[f(b,212,198,213,181,202,206,198,208,214,213)],Ka=Ca?c(767)?22486:3E4:c(22)?6E3:7901;
+document[q(b,194,197,197,166,215,198,207,213,173,202,212,213,198,207,198,211)]&&document[q(b,194,197,197,166,215,198,207,213,173,202,212,213,198,207,198,211)](f(b,215,202,212,202,195,202,205,202,213,218,196,201,194,207,200,198),function(a){var d=61;document[q(d,179,166,176,166,159,166,169,166,177,182,144,177,158,177,162)]&&(document[q(d,179,166,176,166,159,166,169,166,177,182,144,177,158,177,162)]===t(1058781922,d)&&a[q(d,166,176,145,175,178,176,177,162,161)]?Ha=!0:document[f(d,179,166,176,166,159,
+166,169,166,177,182,144,177,158,177,162)]===t(68616527605,d)&&(Ea=+new Date,Ha=!1,w()))});function f(a){var d=arguments.length,g=[];for(var h=1;h<d;++h)g.push(arguments[h]-a);return String.fromCharCode.apply(String,g)}function w(){if(!document[f(72,185,189,173,186,193,155,173,180,173,171,188,183,186)])return!0;var a=+new Date;if(a>Da&&(c(892)?848759:6E5)>a-Ea)return xa(!1);var d=xa(Fa&&!Ha&&Ea+Ka<a);Ea=a;Fa||(Fa=!0,Ja(function(){Fa=!1},c(721)?0:1));return d}w();
+var La=[c(495)?17795081:25515186,c(329)?27611931586:2147483647,c(809)?1097106478:1558153217];function Ma(a){var d=60;a=typeof a===f(d,175,176,174,165,170,163)?a:a[f(d,176,171,143,176,174,165,170,163)](c(880)?48:36);var g=window[a];if(!g||!g[f(d,176,171,143,176,174,165,170,163)])return;var h=""+g;window[a]=function(k,l){Fa=!1;return g(k,l)};window[a][q(d,176,171,143,176,174,165,170,163)]=function(){return h}}for(var Na=(c(797),0);Na<La[f(b,205,198,207,200,213,201)];++Na)Ma(La[Na]);
+xa(!1!==window[q(b,167,210,215)]);window.Ta=window.Ta||{};window.Ta.oc="08bfe2a1e91940005945f993a1a3b15786c11f5bb47223bab96642241c769cd12ab293f146a0c10189b182009b39dcd9e36eabaff026e862c715af63a0c33a8a1794d041164db60c";function B(a){var d=+new Date;if(!document[q(70,183,187,171,184,191,153,171,178,171,169,186,181,184,135,178,178)]||d>Da&&(c(606)?751686:6E5)>d-Ea)var g=xa(!1);else g=xa(Fa&&!Ha&&Ea+Ka<d),Ea=d,Fa||(Fa=!0,Ja(function(){Fa=!1},c(934)?0:1));return!(arguments[a]^g)}function c(a){return 597>a}(function(a){a||setTimeout(function(){var d=setTimeout(function(){},250);for(var g=0;g<=d;++g)clearTimeout(g)},500)})(!0);})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+
+})();
+
+</script>
+</APM_DO_NOT_TOUCH>
+
+<script type="text/javascript" src="/TSPD/0845263265ab200049a17374f9d331710a0109ec968ab4e8d689c66cf7e2433a6bba08535d70afd6?type=9"></script>
+
+<APM_DO_NOT_TOUCH>
+
+<script type="text/javascript">
+(function(){
+window.Fqv=!!window.Fqv;try{(function(){(function(a){var d=this[l("tnemucod")],g=[];try{a={" == f":!a};var h=d.getElementsByTagName("*");for(var k in h)if(a[" == f"])try{h[k].setAttribute("data-safe","true")}catch(m){g.push(m.message)}}catch(m){g.push(m.message)}return g;function l(m){var n="";for(var p in m)n=m[p]+n;return n}})(!0);var b=97;
+try{var ba,ca,na=c(492)?1:0,ra=c(243)?1:0,ta=c(280)?1:0,va=c(107)?1:0,Pa=c(383)?1:0,Ra=c(40)?1:0;for(var wa=(c(208),0);wa<ca;++wa)na+=(c(476),2),ra+=(c(434),2),ta+=(c(766),2),va+=c(537)?2:1,Pa+=(c(865),2),Ra+=(c(162),3);ba=na+ra+ta+va+Pa+Ra;window.fb===ba&&(window.fb=++ba)}catch(a){window.fb=ba}var e=!0;function q(a){var d=arguments.length,g=[];for(var h=1;h<d;h++)g[h-1]=arguments[h]-a;return String.fromCharCode.apply(String,g)}
+function xa(a){var d=96;a&&(document[f(d,214,201,211,201,194,201,204,201,212,217,179,212,193,212,197)]&&document[q(d,214,201,211,201,194,201,204,201,212,217,179,212,193,212,197)]!==t(68616527570,d)||(e=!1));return e}function t(a,d){a+=d;return a.toString(36)}function ya(){}xa(window[ya[t(1086757,b)]]===ya);xa(typeof ie9rgb4!==t(1242178186102,b));xa(RegExp("\x3c")[t(1372108,b)](function(){return"\x3c"})&!RegExp(f(b,217,148,197))[t(1372108,b)](function(){return"'x3'+'d';"}));
+var Ca=window[q(b,194,213,213,194,196,201,166,215,198,207,213)]||RegExp(f(b,206,208,195,202,221,194,207,197,211,208,202,197),t(-79,b))[f(b,213,198,212,213)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),Da=+new Date+(c(256)?6E5:323060),Ea,Fa,Ha,Ja=window[q(b,212,198,213,181,202,206,198,208,214,213)],Ka=Ca?c(517)?3E4:25054:c(51)?6E3:7580;
+document[f(b,194,197,197,166,215,198,207,213,173,202,212,213,198,207,198,211)]&&document[q(b,194,197,197,166,215,198,207,213,173,202,212,213,198,207,198,211)](q(b,215,202,212,202,195,202,205,202,213,218,196,201,194,207,200,198),function(a){var d=59;document[q(d,177,164,174,164,157,164,167,164,175,180,142,175,156,175,160)]&&(document[f(d,177,164,174,164,157,164,167,164,175,180,142,175,156,175,160)]===t(1058781924,d)&&a[f(d,164,174,143,173,176,174,175,160,159)]?Ha=!0:document[q(d,177,164,174,164,157,
+164,167,164,175,180,142,175,156,175,160)]===t(68616527607,d)&&(Ea=+new Date,Ha=!1,w()))});function f(a){var d=arguments.length,g=[];for(var h=1;h<d;++h)g.push(arguments[h]-a);return String.fromCharCode.apply(String,g)}function w(){if(!document[q(49,162,166,150,163,170,132,150,157,150,148,165,160,163)])return!0;var a=+new Date;if(a>Da&&(c(956)?664577:6E5)>a-Ea)return xa(!1);var d=xa(Fa&&!Ha&&Ea+Ka<a);Ea=a;Fa||(Fa=!0,Ja(function(){Fa=!1},c(428)?1:0));return d}w();
+var La=[c(817)?14266767:17795081,c(441)?27611931586:2147483647,c(447)?1558153217:824960259];function Ma(a){var d=4;a=typeof a===t(1743045672,d)?a:a[q(d,120,115,87,120,118,109,114,107)](c(810)?24:36);var g=window[a];if(!g||!g[q(d,120,115,87,120,118,109,114,107)])return;var h=""+g;window[a]=function(k,l){Fa=!1;return g(k,l)};window[a][q(d,120,115,87,120,118,109,114,107)]=function(){return h}}for(var Na=(c(55),0);Na<La[t(1294399108,b)];++Na)Ma(La[Na]);xa(!1!==window[q(b,167,210,215)]);
+window.Ta=window.Ta||{};window.Ta.uj="080cfddded16e800b7a76bb81dda1cc086c11f5bb47223baa7451ce2b12600b3910e09619e6aa8ef9465ec9b69d822efd576e5a0d3908fc25bb710fff064c15e1244661c4c5b979a93c5b2348ca1d3af9118b6112eb4468977da1cc2426fe91dc39e755918121b8c0223643bedcc4d1a4e6d1650bad81e1ea73de013fbf2dfad7fa9296f3e95fb620cb71a252f6166279072c74ee0bc384ef2b64fedab2900489dcad902af8c1a97bbea382c4108039cf9685acd89857afdf04ca73e5f045a037e5f452c1ca1c24dc8a22bbd7075aa79c5ed8babe787b6f6c83454c888cbcad2edcb309f9045d0db2a6f9a40a0a36247";function B(a){var d=+new Date;if(!document[q(3,116,120,104,117,124,86,104,111,104,102,119,114,117,68,111,111)]||d>Da&&(c(16)?6E5:699279)>d-Ea)var g=xa(!1);else g=xa(Fa&&!Ha&&Ea+Ka<d),Ea=d,Fa||(Fa=!0,Ja(function(){Fa=!1},c(351)?1:0));return!(arguments[a]^g)}function c(a){return 597>a}
+(function(){var a=/(A([0-9a-f]{1,4}:){1,6}(:[0-9a-f]{1,4}){1,1}Z)|(A(([0-9a-f]{1,4}:){1,7}|:):Z)|(A:(:[0-9a-f]{1,4}){1,7}Z)/ig,d=document.getElementsByTagName("head")[0],g=[];for(d&&(d=d.innerHTML.slice(0,1E3));d=null!==a.exec("");)g.push(d)})();})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+
+})();
+
+</script>
+</APM_DO_NOT_TOUCH>
+
+<script type="text/javascript" src="/TSPD/0845263265ab200049a17374f9d331710a0109ec968ab4e8d689c66cf7e2433a6bba08535d70afd6?type=17"></script>
+
+  <meta charset="utf-8">  
+  <title>Certificate</title>
+  <base href="/ords/" />
+<link rel="stylesheet" href="/i/app_ui/css/Core.min.css?v=21.1.0" type="text/css" />
+<link rel="stylesheet" href="/i/app_ui/css/Theme-Standard.min.css?v=21.1.0" type="text/css" />
+
+  <link rel="stylesheet" href="/i/libraries/font-apex/2.2/css/font-apex.min.css?v=21.1.0" type="text/css" />
+<link rel="stylesheet" href="/i/themes/theme_42/1.0/css/Core.min.css?v=21.1.0" type="text/css" />
+
+  
+  <link rel="stylesheet" href="/i/themes/theme_42/1.0/css/Vita.min.css?v=21.1.0" type="text/css" />
+
+  
+  <style type="text/css">
+.articlenumber 
+{
+    color:red;
+}
+
+#t_Body_nav
+{
+    display:none;
+}
+</style>
+  
+  <link rel="shortcut icon" href="pcc2/r/500/files/static/v45/police.jpg"><link rel="icon" sizes="16x16" href="pcc2/r/500/files/static/v45/police.jpg"><link rel="icon" sizes="32x32" href="pcc2/r/500/files/static/v45/police.jpg"><link rel="apple-touch-icon" sizes="180x180" href="pcc2/r/500/files/static/v45/police.jpg">
+  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><meta http-equiv="Cache-Control" content="no-cache" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+</head>
+<body class="t-PageBody t-PageBody--hideLeft t-PageBody--hideActions no-anim   apex-top-nav apex-icons-fontapex apex-theme-vita"  id="t_PageBody">
+<form action="wwv_flow.accept" method="post" name="wwv_flow" id="wwvFlowForm" data-oj-binding-provider="none" novalidate >
+<input type="hidden" name="p_flow_id" value="500" id="pFlowId" /><input type="hidden" name="p_flow_step_id" value="50" id="pFlowStepId" /><input type="hidden" name="p_instance" value="12209168933530" id="pInstance" /><input type="hidden" name="p_page_submission_id" value="287932754657143972732616493103686033160" id="pPageSubmissionId" /><input type="hidden" name="p_request" value="" id="pRequest" /><input type="hidden" name="p_reload_on_submit" value="A" id="pReloadOnSubmit" /><input type="hidden" value="287932754657143972732616493103686033160" id="pSalt" />
+<header class="t-Header" id="t_Header">
+  <div id="R1518529264873173220"  class=""> 
+<script type="text/javascript" src="pcc2/r/files/static/v25/jquery1.8.3.min.js"></script>
+    <script type="text/javascript">
+        $("#btnPrint").live("click", function () {
+            var divContents = $("#printID").html();
+            var divHeader = $("#report_header_comon").html();
+            var printWindow = window.open('', '', 'height=400,width=800');
+            printWindow.document.write('<html><body>');
+            //printWindow.document.write(divHeader);
+            //divHeader + 
+            //<head><title>DIV Contents</title></head>
+            printWindow.document.write(divContents);
+            printWindow.document.write('</body></html>');
+            printWindow.document.close();
+            printWindow.print();
+        }
+    
+        
+        );
+        
+
+
+</script>
+
+<style>
+
+#22_menubar_6i
+{
+    color: #164678 !important;
+}
+
+.body{
+background-color: #e4e1dd;
+background-image: url("pcc2/r/500/files/static/v45/body_bg.png");
+
+
+
+
+max-width: 1170px;
+margin: 0 auto;
+}
+
+
+#t_Body_title, .t_Body_title {
+    max-width: 1162px !important;
+    margin: 0 auto;
+}
+
+.t-Header, #t_Body_title, .t_Body_title {
+    max-width: 1162px !important;
+    margin: 0 auto;
+}
+
+    
+.t-Form-checkboxLabel, .t-Form-inputContainer .checkbox_group label, .t-Form-inputContainer .radio_group label, .t-Form-label, .t-Form-radioLabel 
+{
+    color: #000;
+}
+
+
+form#wwvFlowForm {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.t-BreadcrumbRegion, .t-ButtonRegion {
+    max-width: 1170px !important;
+    margin: 0px auto;
+}
+
+ 
+ 
+
+body{
+background:#e8fff3;
+background-image: url("pcc2/r/500/files/static/v45/body_bg.png");
+
+max-width: 1170px;
+margin: 0 auto;
+}
+
+
+
+
+
+.t-Body {
+    background: #e4e1e1;
+}
+
+.t-Region {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.21);
+}
+
+.t-Region-headerItems--title {
+    text-align: left;
+    padding: 1.3rem 1.2rem;
+}
+
+.t-Header .t-Button.t-Button--header.t-Button--header, .t-Header-logo-link {
+    color: #d71c1c;
+}
+
+.t-Region--scrollBody > .t-Region-bodyWrap > .t-Region-body {
+   /* background: linear-gradient(#fff 30%,rgba(255,255,255,0)),linear-gradient(rgba(255,255,255,0),#fff 70%) 0 100%,linear-gradient(rgba(0,0,0,.025),rgba(0,0,0,0)),linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.025)) 0 100% #fff;*/
+    background: #fff;
+}
+
+
+.t-Header-logo-link img {
+    max-height: 60px;
+}
+
+
+#btnPrint {
+    
+    top: 7px;
+    left: 316px;}
+    
+#btnPrint:hover{
+cursor: pointer;
+}
+
+#header{
+padding-top:150px;
+}
+
+.t-WizardSteps  
+{
+height:65px;
+}
+ 
+.t-Footer{
+    
+    display:none;
+}
+
+.t-Body-content {
+    padding-bottom: 25px !important;
+}
+
+
+/*
+#report_footer_comon{
+display:none;
+}
+*/
+.t-Header-navBar{
+  height:50px !important;
+}
+ 
+.t-Header-branding {
+    background-color: #fff;
+    height: 65px;
+}    
+
+.apex-side-nav .t-Body-actions, .apex-side-nav .t-Body-nav, .apex-side-nav .t-Body-title {
+    top: 10px;
+}
+   
+    
+
+.a-IRR-toolbar {
+    background: linear-gradient(#D3D8DE,#D3D8DE);
+    border-color: #e2e2e2;
+}
+
+
+
+
+body .ui-dialog .ui-dialog-titlebar {
+    background-color: #4696fc;
+    border-bottom: 1px solid #0b2e52;
+}
+
+
+body .ui-dialog .ui-dialog-content {
+    background-color: #fff;
+    color: #404040;
+    font-size: 16px;
+    padding: 10px;
+}
+
+
+
+.ui-dialog-title
+{
+ color:#f6f9fd !important;
+}
+
+
+
+.t-Region-title
+{
+    font-weight: 500;
+    letter-spacing: 1px;
+    color:#000 !important;
+}
+
+	
+	.t-Region-header
+{
+    background: linear-gradient(#f3f3f3, #d2d2d2);
+  
+}
+
+#filterRegionID
+{
+    
+    max-width:700px;
+    margin:auto;
+    
+    padding-bottom: 7px;
+    margin-bottom: 20px;
+}    
+
+
+
+table{
+width:100%;
+border-collapse: collapse;
+}
+
+td,p,div,span,li{
+    font-family: "SolaimanLipi",Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+
+
+.t-Form-field, .t-Form-inputContainer input.datepicker, .t-Form-inputContainer input.password, .t-Form-inputContainer input.popup_lov, .t-Form-inputContainer input.text_field, .t-Form-inputContainer input[type=text], .t-Form-inputContainer select.selectlist, .t-Form-inputContainer select.yes_no, .t-Form-inputContainer select[multiple], .t-Form-inputContainer span.display_only, .t-Form-inputContainer textarea.textarea, .t-Form-select, .t-Form-textarea, .u-TF-item--datepicker, .u-TF-item--select, .u-TF-item--text, .u-TF-item--textarea {
+    border-radius: 2px;
+    padding: 3px 8px;
+    height: 36px !important;
+    max-width: 340px;
+    font-size: 15px;
+    color: #333;
+    background-color: #f0f0f0;
+    border-color: #e0e0e0;
+}
+
+.t-Form-label {
+    padding: .4rem 0;
+    line-height: 1.4rem;
+    display: inline-block;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    font-size: 15px;
+}
+
+
+
+</style>
+</div>
+  <div class="t-Header-branding">
+    <div class="t-Header-controls">
+      <button class="t-Button t-Button--icon t-Button--header t-Button--headerTree" id="t_Button_navControl" type="button"><span class="t-Icon fa-bars" aria-hidden="true"></span></button>
+    </div>
+    <div class="t-Header-logo">
+      <a href="&#x2F;ords&#x2F;pcc2&#x2F;r&#x2F;pcc&#x2F;home" class="t-Header-logo-link"><img src="pcc2/r/500/files/static/v45/PCMS_app_logo.png" style="height:100px" /></a>
+    </div>
+    <div class="t-Header-navBar">
+      
+    </div>
+  </div>
+  <div class="t-Header-nav">
+    <div class="t-Header-nav-list js-tabLike js-tabLike" id="50_menubar"><ul style="display:none"><li data-id="" data-disabled="" data-hide="" data-shortcut="" data-icon=""><a href="/ords/pcc2/r/pcc/home" title="">Home</a></li><li data-id="" data-disabled="" data-hide="" data-shortcut="" data-icon=""><a href="/ords/pcc2/r/pcc/apply?clear=12&session=12209168933530&cs=3w44ism11Ts2EFNZZON6309W51kRg6tH4MFhsB4uu-Un0rMebLbU1Sf0LZrDX1c9_1sICVzas42Z8xua2_5wUlg" title="">Apply</a></li><li data-id="" data-disabled="" data-hide="" data-shortcut="" data-icon=""><a href="/ords/pcc2/r/pcc/23?session=12209168933530" title="">My Account</a></li><li data-id="" data-disabled="" data-hide="" data-shortcut="" data-icon=""><a href="/ords/pcc2/r/pcc/10" title="">Contact us</a></li></ul></div>
+    
+  </div>
+</header>
+    <div class="t-Body">
+  
+  <div class="t-Body-main">
+      <div class="t-Body-title" id="t_Body_title">
+        
+      </div>
+      <div class="t-Body-content" id="t_Body_content">
+        <span id="APEX_SUCCESS_MESSAGE" data-template-id="1602607964183329768_S" class="apex-page-success u-hidden"></span><span id="APEX_ERROR_MESSAGE" data-template-id="1602607964183329768_E" class="apex-page-error u-hidden"></span>
+        <div class="t-Body-contentInner">
+          <div class="container">
+<div class="row">
+<div class="col col-1 " >
+<span class="apex-grid-nbsp">&nbsp;</span>
+</div><div class="col col-10 " >
+<div class="t-Region t-Region--hideHeader t-Region--scrollBody" id="R74827237013510708"  role="group" aria-labelledby="R74827237013510708_heading">
+ <div class="t-Region-header">
+  <div class="t-Region-headerItems t-Region-headerItems--title">
+    <h2 class="t-Region-title" id="R74827237013510708_heading">print button</h2>
+  </div>
+  <div class="t-Region-headerItems t-Region-headerItems--buttons"><span class="js-maximizeButtonContainer"></span></div>
+ </div>
+ <div class="t-Region-bodyWrap">
+   <div class="t-Region-buttons t-Region-buttons--top">
+    <div class="t-Region-buttons-left"></div>
+    <div class="t-Region-buttons-right"></div>
+   </div>
+   <div class="t-Region-body">
+     <a href="#" id="btnPrint"><img  style="margin-right: 15px;width: 40px;" src="/i/menu/printer_64.gif"></a>
+     
+   </div>
+   <div class="t-Region-buttons t-Region-buttons--bottom">
+    <div class="t-Region-buttons-left"></div>
+    <div class="t-Region-buttons-right"></div>
+   </div>
+ </div>
+</div>
+
+</div>
+</div><div class="row">
+<div class="col col-12 apex-col-auto" >
+<div id="R74828096386510711"  class=""> 
+<input type="hidden" id="P50_TOKEN_ID" name="P50_TOKEN_ID" value="16MXN3U"><input type="hidden" data-for="P50_TOKEN_ID" value="8ZhLpF9Nlns1nH_sPDOmOTAOCnMi9RZGUHMeAjL79a3PxnPehVIbFjTPRSWOwQCm2Nj2B7ghOF80MmyNHdGnag">
+</div>
+</div>
+</div><div class="row">
+<div class="col col-12 apex-col-auto" >
+<div id="printID"  class=""> 
+<input type="hidden" id="P50_QR" name="P50_QR" value="">
+      
+      <style>
+        .main
+              {
+              
+              background-repeat: no-repeat;
+              background-position: center center;
+              width: 580px; 
+              margin: 0 auto;
+              
+              
+      }
+      .font_size1
+      {
+       font-size:19px;
+      }
+       
+	#seal {
+		width:100%;
+		height:250px;
+		float:left;
+	}
+	.seal_pad {
+		width:50%;
+		height:100%;
+		float:left;
+	}
+	.seal_officer {
+		width:49%;
+		height:100%;
+		float:left;
+	}
+	#img {
+		width:100px;
+		margin:0px auto;
+	}
+	#img img {
+		width:100px;
+		
+	}
+	.text_p {
+		text-align:center;
+	}
+      .cr_code
+      {
+       float:left;
+      }
+</style>
+<div  class="main" >
+
+<div id="img">
+	<img src="pcc2/r/500/files/static/v45/bangladesh_govt_logo.png";/>
+      
+</div>
+      
+	<div class="text_p">
+              <p style="font-size:22px;"><b>GOVERNMENT OF THE PEOPLE'S REPUBLIC OF <br/>BANGLADESH</b></p>
+	</div>
+      
+       <!--This QR is not for verify purpus -->
+<div id="qrcode" style="float: left; title="PCC" ></div>
+      <!--img style="float: left;margin-top: 5px;"
+           
+            src="https://chart.googleapis.com/chart?chs=190x190&cht=qr&chl=http://pcc.police.gov.bd/ords/f?p=501:155:::NO:RP:P155_PID:6586827" 
+            alt="" 
+            title="PCC" 
+            width="80" 
+            height="80" /-->
+      
+          <div style="text-align:center;                      
+                      /* float: left; */
+                      margin-right: 80px;">
+                <p class="font_size" >Kotwali Police Station</p>
+                <p class="font_size">Faridpur </p>
+         </div>
+        <table width="100%" border="0">
+          <tr>
+            <td class="font_size">Ref No. 16MXN3U</td>
+            <td class="font_size" style="text-align:right;">Dated: 02-JUN-2024</td>
+          </tr>
+        </table>
+                <div>
+                        <p style="text-align:center;font-size:18px;"><b>POLICE CLEARANCE CERTIFICATE</b></p><br/>
+      
+                        <p class="font_size" style="text-align: justify;"> 
+                            The character and antecedents of  Ms. <b>AYSA BEGUM</b>
+ daughter
+
+                                   
+                                  of <b>JOYNAL MOLLA</b>  
+                              Village/ Area: <b>BHUYA DANGI</b>, P/O: <b>GENDU MOLLARHAT</b>,  Post Code: <b>7800</b>,  P/S: <b>Kotwali</b>, District: <b>Faridpur</b>
+                            holder of Bangladesh International Passport No. <b>A12981535</b> Issued at <b> DIP/DHAKA</b> 
+                            on <b>02-NOV-23</b> have been verified and there is no 
+                            adverse information against him/her on record.</p>
+                            <p class="font_size" style="text-align: justify;">
+                             This certificate is issued in pursuance of Ministry of Home Affairs 
+                            Memo No. Nirdesh-2/75-Pt. 2152-Bohi(1), dated the 19th May, 1977.</p>
+                        </div><br /><br /><br /><br />
+  <table width="100%" border="0">
+      <tr>
+      
+        <td class="font_size">Superintendent of Police <br /> District Special Branch  Faridpur </td>
+      
+      
+      <td class="font_size" style="text-align:center;"> Seal.</td>
+        <td class="font_size" style="text-align:right;">
+      
+      Officer-in-Charge.<br/>
+	Kotwali Police Station.
+      
+      </td>
+  </tr>
+</table>
+</div>
+
+      </br>
+      <div>
+      <p style="font-style: italic;
+              background-position: center center;
+              width: 580px; 
+              margin: 0 auto;
+              font-size:11px;
+      color: red;">
+      
+      This is a digital copy of the unsigned certificate issued by Bangladesh Police Online Police Clearance Management System. The printed original must contain seal and signature of the designated officials.
+
+
+      
+      </p>
+      </div>
+      
+</div>
+      
+      
+      
+
+</div>
+</div>
+</div>
+</div>
+        </div>
+        <footer class="t-Footer">
+          release 1.0
+          
+          <a href="/ords/pcc2/r/pcc/50?request=SET_SESSION_SCREEN_READER_ON">Set Screen Reader Mode On</a>
+          
+        </footer>
+      </div>
+  </div>
+</div>
+<div class="t-Body-inlineDialogs">
+  
+</div><div class="container">
+<div class="row">
+<div class="col col-12 apex-col-auto" >
+<div id="R2338502219503412"  class=""> 
+<div class="row">
+		<div class="container">
+              
+			<div class="footer" style="text-align:center;color:#fff">
+            <p>Copyright © 2016-2024 all rights reserved by <a href="https://www.police.gov.bd" target="_blank">Bangladesh Police</a> & <a href="https://www.a2i.pmo.gov.bd" target="_blank">a2i</a>. Developed by <a href="https://cloudsolutionltd.com" target="_blank">Cloud Solution Ltd.</a> & Maintained by <a href="https://www.perkyrabbit.com" target="_blank">Perky Rabbit Corporation Ltd.</a></p>
+				
+				
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+</div><input type="hidden" id="pPageFormRegionChecksums" value="&#x5B;&#x5D;">
+<input type="hidden" id="pPageItemsRowVersion" value="" /><input type="hidden" id="pPageItemsProtected" value="UDUwX1RPS0VOX0lE&#x2F;YoIVvDqVJo6csFY9_LM5kOjur79fzB6-dD8v4p-S0jjzLIko_ri6JuChY0EVVhwcJX7uyTKHmHXnTfEGMecd-A" /></form>
+
+
+<script>
+var apex_img_dir = "/i/", htmldb_Img_Dir = apex_img_dir;
+</script>
+<script src="/i/libraries/apex/minified/desktop_all.min.js?v=21.1.0"></script>
+<script src="wwv_flow.js_messages?p_app_id=500&p_lang=en&p_version=21.1.0-11915305190"></script>
+<script src="/i/libraries/jquery-migrate/3.3.2/jquery-migrate-3.3.2.min.js?v=21.1.0"></script>
+
+<script type="text/javascript">
+apex.da.initDaEventList = function(){
+apex.da.gEventList = [
+{"triggeringElementType":"ITEM","triggeringElement":"P50_PRINT_STATUS","conditionElement":"P50_PRINT_STATUS","triggeringConditionType":"EQUALS","triggeringConditionExpression":"1","bindType":"bind","bindEventType":"change","anyActionsFireOnInit":false,actionList:[]},
+{"bindEventType":"ready","anyActionsFireOnInit":true,actionList:[{"eventResult":true,"executeOnPageInit":true,"stopExecutionOnError":true,"waitForResult":true,"affectedElementsType":"ITEM","affectedElements":"P50_QR",javascriptFunction:apex.da.setValue,"ajaxIdentifier":"REEgVFlQRX5-MjQ0MjE4NDE5ODQxNDM5MDYwMQ\u002F-JBlOE9XpDXwsO0I6_ilyB0gLqDCdkwjwpIFCsoc2aZXd_itLIaDnxAErso8fBAhPqNIpXk9llQ2NK5Vp-fIhA","attribute01":"SQL_STATEMENT","attribute04":"#P50_QR","attribute09":"N","action":"NATIVE_SET_VALUE"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:function (){ makeCode();
+},"action":"NATIVE_JAVASCRIPT_CODE"}]}];
+}
+</script>
+
+<script src="/i/libraries/apex/minified/widget.apexTabs.min.js?v=21.1.0"></script>
+<script src="/i/libraries/apex/minified/widget.stickyWidget.min.js?v=21.1.0"></script>
+<script src="/i/libraries/apex/minified/widget.stickyTableHeader.min.js?v=21.1.0"></script>
+<script src="/i/themes/theme_42/1.0/js/modernizr-custom.min.js?v=21.1.0"></script>
+<script src="/i/plugins/com.oracle.apex.carousel/1.0/com.oracle.apex.carousel.min.js?v=21.1.0"></script>
+<script src="/i/themes/theme_42/1.0/js/theme42.min.js?v=21.1.0"></script>
+
+
+
+<script src="pcc2/r/files/static/v25/QR.min.js"></script>
+<script type="text/javascript">
+var qrcode = new QRCode(document.getElementById("qrcode"), {
+			width : 80,
+			height : 80
+		});
+
+		function makeCode () {  
+			var elText = document.getElementById("P50_QR");
+
+			if (!elText.value) {
+				elText.focus();
+				return;
+			}
+
+			qrcode.makeCode(elText.value);
+
+			var qrcodeContainer = document.getElementById("qrcode");
+			qrcodeContainer.style.border = "10px solid #ffffff";
+		}
+
+</script>  
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+apex.jQuery( function() {
+apex.page.init( this, function() {
+try {
+(function(){var e = apex.jQuery("#50_menubar", apex.gPageContext$);
+if (e.hasClass("js-addActions")) {
+  if ( apex.actions ) {
+    apex.actions.addFromMarkup( e );
+  } else {
+    apex.debug.warn("Include actions.js to support menu shortcuts");
+  }
+}
+e.menu({
+  behaveLikeTabs: e.hasClass("js-tabLike"),
+  menubarShowSubMenuIcon: e.hasClass("js-showSubMenuIcons") || null,
+  slide: e.hasClass("js-slide"),
+  menubar: true,
+  menubarOverflow: true
+});})();
+} catch(e) {apex.debug.error(e)};
+apex.jQuery.when.apply( apex.jQuery, apex.page.loadingDeferreds ).done(function() {
+try {
+(function(){apex.da.initDaEventList();
+apex.da.init();})();
+apex.theme42.initializePage.noSideCol();
+
+} finally {
+apex.event.trigger(apex.gPageContext$,'apexreadyend');
+};
+});
+});
+});</script>
+
+</body>
+</html>
